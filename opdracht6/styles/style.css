@@ -14,15 +14,15 @@ h3 {
     font-size: 1.4em;
 }
 
-p.rood {
+.para1 {
     color: red;
 }
 
-p.groen {
+.para2 {
     color: green;
 }
 
-p.blauw {
+.para3 {
     color: blue;
 }
 
